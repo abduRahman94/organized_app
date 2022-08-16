@@ -1,0 +1,1 @@
+SQLALCHEMY_DATABASE_URI = 'postgresql://posgtres:postgres@localhost:5432/test'
